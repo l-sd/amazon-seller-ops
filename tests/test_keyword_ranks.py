@@ -20,13 +20,14 @@ def fixture_rows():
 
 
 def test_rank_deltas_have_correct_direction_and_missing_is_not_zero():
-    history, daily = consolidate(fixture_rows())
+    rows = fixture_rows()
+    history, daily = consolidate(rows)
     latest = daily.loc[(daily["asin"] == "B0DEMO0001") & (daily["rank_type"] == "organic") & (daily["date"] == "2026-11-03")]
-    assert len(history) == 224
-    assert latest.loc[latest["keyword"] == "desk organizer", "change_1d"].iloc[0] == 3
-    assert latest.loc[latest["keyword"] == "office desk tray", "change_1d"].iloc[0] == -2
-    assert pd.isna(latest.loc[latest["keyword"] == "small desk organizer", "change_1d"].iloc[0])
-    assert pd.isna(latest.loc[latest["keyword"] == "desktop storage", "rank"].iloc[0])
+    assert len(history) == len(rows)
+    assert latest.loc[latest["keyword"] == "area rug", "change_1d"].iloc[0] == -2
+    assert latest.loc[latest["keyword"] == "area rugs", "change_1d"].iloc[0] == 7
+    assert pd.isna(latest.loc[latest["keyword"] == "low pile area rug", "change_1d"].iloc[0])
+    assert pd.isna(latest.loc[latest["keyword"] == "rubber backing rug", "rank"].iloc[0])
 
 
 def test_repeated_exports_do_not_create_new_history():
@@ -74,8 +75,8 @@ def test_latest_intraday_sample_selected_without_discarding_history():
     newer = {**first, "observed_at": "2026-10-21T12:00:00-07:00", "rank": 2,
              "_utc": first["_utc"] + pd.Timedelta(hours=2)}
     history, daily = consolidate(rows + [newer])
-    assert len(history) == 225
-    assert len(daily) == 224
+    assert len(history) == len(rows) + 1
+    assert len(daily) == len(rows)
     match = daily.loc[(daily["date"] == first["date"]) & (daily["asin"] == first["asin"]) &
                       (daily["keyword"] == first["keyword"]) & (daily["rank_type"] == first["rank_type"])]
     assert match.iloc[0]["rank"] == 2
@@ -94,6 +95,7 @@ def test_readable_workbook_has_numeric_ranks_frozen_columns_and_change_colors():
 
 def test_daily_cli_history_round_trip_and_excel_export(tmp_path):
     script = ROOT / ".agents/skills/amazon-seller-ops/scripts/track_keyword_ranks.py"
+    expected_rows = len(fixture_rows())
     target = tmp_path / "first"
     command = [sys.executable, str(script), "--input", str(EXAMPLE), "--data-kind", "synthetic", "--output-dir", str(target)]
     result = subprocess.run(command, capture_output=True, text=True, encoding="utf-8", timeout=30)
@@ -103,8 +105,8 @@ def test_daily_cli_history_round_trip_and_excel_export(tmp_path):
     result = subprocess.run(command, capture_output=True, text=True, encoding="utf-8", timeout=30)
     assert result.returncode == 0, result.stderr
     manifest = json.loads((tmp_path / "second/run_manifest.json").read_text(encoding="utf-8"))
-    assert manifest["history_rows"] == 224
-    assert manifest["deduplicated_rows"] == 224
+    assert manifest["history_rows"] == expected_rows
+    assert manifest["deduplicated_rows"] == expected_rows
 
 
 def test_do_not_merge_synthetic_into_user_history():

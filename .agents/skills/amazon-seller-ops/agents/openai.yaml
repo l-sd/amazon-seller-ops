@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊运营与选品助手"
+  short_description: "结合真实卖家流程，完成日常巡检、报表复盘、竞品研究与选品评估"
+  default_prompt: "请使用 $amazon-seller-ops，根据我提供的报表、商品链接或资料完成运营分析，列出证据、数据缺口和下一步。"

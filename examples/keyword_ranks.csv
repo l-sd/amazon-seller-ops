@@ -1,0 +1,225 @@
+﻿provider,marketplace,asin,keyword,rank_type,rank_definition,device,delivery_region,sampling_rule,timezone,observed_at,rank,status,search_limit,source_reference,data_kind
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,72,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,18,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,90,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,15,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,77,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,23,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,95,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,20,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-21T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,69,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,20,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,88,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,16,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,74,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,25,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,93,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,21,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-22T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,66,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,22,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,86,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,17,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,71,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,27,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,91,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,22,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-23T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,63,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,24,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,84,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,18,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,68,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,29,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,89,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,23,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-24T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,60,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,26,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,82,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,15,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,65,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,31,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,87,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,20,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-25T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,57,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,28,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,80,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,16,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,62,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,33,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,85,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,21,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-26T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,54,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,30,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,78,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,17,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,59,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,35,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,83,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,22,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-27T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,51,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,32,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,76,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,18,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,56,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,37,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,81,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,23,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-28T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,48,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,34,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,74,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,15,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,53,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,39,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,79,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,20,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-29T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,45,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,36,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,72,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,16,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,50,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,41,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,77,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,21,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-30T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,42,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,38,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,70,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,17,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,47,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,43,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,75,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,22,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-10-31T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,39,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,40,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,68,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,18,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,44,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,45,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,73,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,23,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-01T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,36,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,42,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,,not_collected,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,15,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,41,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,4,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,47,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,,not_collected,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,20,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-02T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,33,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,44,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,64,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,,out_of_range,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0001,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,38,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,5,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,49,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,office desk tray,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,6,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,69,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,small desk organizer,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,2,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,organic,absolute,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,21,found,306,synthetic://rank-export-example,synthetic
+DEMO-EXPORT,US,B0DEMO0002,desktop storage,sponsored_sp,slot,desktop,US-10001,daily_latest,America/Los_Angeles,2026-11-03T10:00:00-07:00,3,found,306,synthetic://rank-export-example,synthetic
